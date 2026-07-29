@@ -28,3 +28,10 @@ Working with large transactional data in Excel can get overwhelming. My goal her
 * `Data/` — The raw Excel sheets and CSV files used for this analysis.
 
 I put a lot of effort into making this multi-page report practical, deep, and clean. If you have any feedback or thoughts, I'd love to hear them!
+
+## Project Files & Download
+* **Power BI File (`.pbix`):** Due to GitHub's file size limit, the full multi-page dashboard file is zipped and hosted on Google Drive.
+  👉 **[Download the Power BI File Here]
+  (https://drive.google.com/file/d/18jcYWGlFza4ln1D0tGE2g6RJzp1g0ACQ/view?usp=sharing)**
+* **Raw Datasets:** Available in the `Data/` folder of this repository.
+  
