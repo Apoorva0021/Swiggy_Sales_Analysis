@@ -34,4 +34,10 @@ I put a lot of effort into making this multi-page report practical, deep, and cl
   👉 **[Download the Power BI File Here]
   (https://drive.google.com/file/d/18jcYWGlFza4ln1D0tGE2g6RJzp1g0ACQ/view?usp=sharing)**
 * **Raw Datasets:** Available in the `Data/` folder of this repository.
+
+
+## Dashboard Previews
+Since the interactive Power BI file cannot be previewed directly on GitHub, I have attached high-resolution **screenshots** of all the dashboard pages below. 
+
+You can scroll down to get a complete visual tour of the layouts, key metrics, and reports!
   
